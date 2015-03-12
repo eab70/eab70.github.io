@@ -47,7 +47,6 @@ hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin:
 input, select { vertical-align: middle; }
 
 
-
 body {
 	background-image: url("images/sunset1732daboutme.jpg");
 	background-position: center;
@@ -99,5 +98,3 @@ span {
 a {
 	margin-left: 440px;
 }
-
-
