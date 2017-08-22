@@ -103,9 +103,10 @@ span {
 	font-size: 15px;
 }
 
-div.links {
+/**div.links {
 	margin-left: 350px;
 }
+*/
 
 div.links img {
   display: block;
