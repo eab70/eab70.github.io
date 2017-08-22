@@ -90,7 +90,7 @@ p {
 	font-weight: 550;
 }
 
-p2 {
+p.new_indent {
 	margin-left: 60px;
 	margin-right: 20px;
 	font-family: sans-serif;
