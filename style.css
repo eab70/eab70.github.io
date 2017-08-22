@@ -111,6 +111,7 @@ span {
 div.links img {
   display: block;
   float: right;
+  padding-right: 10px;
 }
 
 div.clear {
