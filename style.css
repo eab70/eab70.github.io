@@ -103,10 +103,9 @@ span {
 	font-size: 15px;
 }
 
-/**div.links {
-	margin-left: 350px;
+div.links {
+  vertical-align: bottom;
 }
-*/
 
 div.links img {
   display: block;
