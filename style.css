@@ -103,6 +103,11 @@ span {
 	font-size: 15px;
 }
 
-.links {
+div.links {
 	margin-left: 380px;
+}
+
+div.links img {
+  display: block;
+  float: right;
 }
